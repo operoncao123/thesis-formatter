@@ -1,0 +1,4 @@
+interface:
+  display_name: "YOUR_UNIVERSITY Thesis Formatter"
+  short_description: "Format and audit doctoral thesis DOCX files"
+  default_prompt: "Use $phd-thesis-formatter-codex to normalize and audit a doctoral thesis DOCX against the institute formatting rules."

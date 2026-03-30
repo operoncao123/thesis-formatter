@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Formatted/output files generated during use
+*_formatted.docx
+*_formatted_*.docx
+*_review.docx
+*_fixed.docx
+*_audit.docx
+format_report.txt
+review_report.txt
+
+# Unpacked DOCX working directories
+unpacked/
+unpacked_*/
+
+# OS
+.DS_Store
